@@ -1,0 +1,10 @@
+1   Samsung   	35000	50	1
+2   HTC   	65300	30	0
+3   Nokia   	25100	100  	1
+4   Walton   	8100	20   	1
+5   TMobile   	6500	35   	1
+6   iMobile   	2500	36   	1
+7   Lumia   	27500	35   	1
+8   iPhone4   	88000	35   	0
+9   Huawei   	10500	10   	0
+10  Alcatel	13500	50   	0
